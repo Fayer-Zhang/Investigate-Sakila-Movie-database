@@ -13,6 +13,3 @@ This project is to query the database to gain an understanding of the customer b
 DVD Rental ERD.pdf is the Entity Relationship diagram to help me view data in the database.
 queries.sql and Report Query Sets.sql is containing necessary code.
 Report.pdf is the investigation report.
-
-### Credits
-Thanks to Udacity for the project.
